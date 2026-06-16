@@ -87,31 +87,8 @@ Start Command:
 
 gunicorn app:app
 
-
 Database initializes automatically on first run
 
-
-📌 Example Usage
----
-Enter a long URL (including http:// or https://)
-
-Click Shorten
-
-Copy the generated short URL
-
-Use the short URL to redirect to the original site
-
-🧠 Learning Outcomes
-----
-Flask backend development
-
-SQLite database integration
-
-Cloud deployment using Render
-
-Debugging production errors
-
-Real-world backend workflow
 
 👩‍💻 Author
 -------
